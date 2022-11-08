@@ -1,1 +1,3 @@
 this is my first commit to github from git command line.
+ 
+add new line
